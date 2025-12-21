@@ -1,0 +1,5 @@
+0 SunnyBeach Turkey 450.5 7 Kushadasy 1 4
+1 ParisWalk France 1200.0 5 12 Double-decker
+2 DzerzhinskayaVozvishennost' Belarus 2500.0 10 Expert 1
+0 GoldenSands Egypt 800.0 14 RoyalGrand 1 5
+1 ItalyGrand Italy 1500.0 12 20 Bus
